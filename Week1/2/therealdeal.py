@@ -97,11 +97,11 @@ def count_substrings(haystack, needle):
 print(count_substrings("This is a test string", "isi"))
 
 
-def sum_matrix(m):
+def sum_matrix(matrix):
     sum = 0
-    for i in m:
-        for j in i:
-            sum += j
+    for element in matrix:
+        for sub_element in element:
+            sum += sub_element
     return sum
 
 print(sum_matrix([[1, 2, 3], [4, 5, 6], [7, 8, 9]]))
