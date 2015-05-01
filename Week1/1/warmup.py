@@ -71,9 +71,9 @@ print(palindrome(""))
 
 def to_digits(n):
     list_digits = []
-    string1 = str(n)
-    for i in range(0, len(string1)):
-        list_digits.append(int(i))
+    str_number = str(n)
+    for element in range(0, len(str_number)):
+        list_digits.append(int(str(n)[element]))
     return list_digits
 
 print(to_digits(1234556))
@@ -126,7 +126,6 @@ print(count_consonants('aksjhalkgf'))
 
 def char_histogram(string):
     dict_histogram = {}
-    i = 0
     for char in string:
         if char in dict_histogram:
             dict_histogram[char] += 1
@@ -161,7 +160,7 @@ def is_decreasing(seq):
             return False
     return True
 
-print(is_decreasing([5,4,3,2,1]))
+print(is_decreasing([5, 4, 3, 2, 1]))
 
 
 def even(n):
