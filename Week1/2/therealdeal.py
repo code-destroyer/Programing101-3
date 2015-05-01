@@ -1,6 +1,3 @@
-import math
-
-
 def sum_of_divisors(n):
     list_of_divisors = []
     number = 1
@@ -70,6 +67,38 @@ def contains_digits(number, digits):
     return True
 
 print(contains_digits(402123, [0, 3, 4, 8]))
+
+
+def to_number(digits):
+    number = ''
+    for i in range(0, len(digits) + 1):
+        number = number + str(i)
+    return int(number)
+
+
+def to_digits(n):
+    list_digits = []
+    for element in range(0, len(str(n))):
+        list_digits.append(str(n)[element])
+    return list_digits
+
+
+def is_number_balanced(n):
+    numbers = to_digits(n)
+    print(numbers)
+    # numbers_reversed = reversed(to_digits(n))
+    numbers_reversed = numbers[::-1]
+    print(numbers_reversed)
+    length = len(numbers)
+    sum_left = 0
+    sum_right = 0
+    for i in range(0, length // 2):
+        sum_left += int(numbers[i])
+    for element in range (0, len(numbers_reversed) // 2):
+        sum_right += int(numbers_reversed[element])
+    return sum_left == sum_right
+
+print(is_number_balanced(1235421))
 
 
 def count_substrings(haystack, needle):
