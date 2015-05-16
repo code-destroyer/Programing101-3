@@ -1,3 +1,7 @@
+from copy import deepcopy
+from pprint import pprint
+
+
 def sum_of_divisors(n):
     list_of_divisors = []
     number = 1
@@ -71,9 +75,17 @@ print(contains_digits(402123, [0, 3, 4, 8]))
 
 def to_digits(n):
     list_digits = []
-    for element in range(0, len(str(n))):
-        list_digits.append(str(n)[element])
+    str_number = str(n)
+    for element in range(0, len(str_number)):
+        list_digits.append(int(str(n)[element]))
     return list_digits
+
+
+def to_number(digits):
+    number = ''
+    for i in range(0, len(digits)):
+        number = number + str(digits[i])
+    return int(number)
 
 
 def is_number_balanced(n):
@@ -97,6 +109,22 @@ def count_substrings(haystack, needle):
 print(count_substrings("This is a test string", "isi"))
 
 
+def zero_insert(n):
+    list_from_n = to_digits(n)
+    print(list_from_n)
+    r = []
+    for x in range(0, len(list_from_n) - 1):
+        r.append(list_from_n[x])
+        if list_from_n[x] == list_from_n[x + 1] or (list_from_n[x] + list_from_n[x + 1]) % 10 == 0:
+            r.append(0)
+    r.append(list_from_n[-1])
+    print (r)
+
+    return to_number(r)
+
+print(zero_insert(1164573))
+
+
 def sum_matrix(matrix):
     sum = 0
     for element in matrix:
@@ -105,3 +133,33 @@ def sum_matrix(matrix):
     return sum
 
 print(sum_matrix([[1, 2, 3], [4, 5, 6], [7, 8, 9]]))
+
+
+def bombed_matrix(m, i, j):
+    indexes = [-1, 0, 1]
+    bomb = deepcopy(m)
+    for row in indexes:
+        for col in indexes:
+            if i + row >= 0:
+                if i + row <= len(bomb) - 1:
+                    if j + col >= 0:
+                        if j + col <= len(bomb[0]) - 1:
+                            if not(i + row == i and j + col == j):
+                                if bomb[i][j] <= bomb[i + row][j + col]:
+                                    bomb[i + row][j + col] -= bomb[i][j]
+                                elif bomb[i][j] > bomb[i + row][j + col]:
+                                    bomb[i + row][j + col] = 0
+    return bomb
+
+
+def matrix_bombing_plan(m):
+    dictionary = {}
+
+    for i in range(len(m)):
+        for j in range(len(m[0])):
+            total_sum = sum_matrix(bombed_matrix(m, i, j))
+            dictionary[(i, j)] = total_sum
+
+    return dictionary
+
+pprint(matrix_bombing_plan([[1, 2, 3], [4, 5, 6], [7, 8, 9]]))

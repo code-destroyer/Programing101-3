@@ -81,11 +81,11 @@ print(to_digits(1234556))
 
 def to_number(digits):
     number = ''
-    for i in range(0, len(digits) + 1):
-        number = number + str(i)
+    for i in range(0, len(digits)):
+        number = number + str(digits[i])
     return int(number)
 
-print(to_number([1, 2, 3, 4]))
+print(to_number([1, 2, 3, 5]))
 
 
 def fib_number(n):
@@ -163,12 +163,8 @@ def is_decreasing(seq):
 print(is_decreasing([5, 4, 3, 2, 1]))
 
 
-def even(n):
-    return n % 2 == 0
-
-
 def odd(n):
-    return not even(n)
+    return n % 2 != 0
 
 
 def hack_number(n):
