@@ -1,3 +1,6 @@
+import calendar
+
+
 def count_words(arr):
     result = {}
     for word in arr:
@@ -243,14 +246,18 @@ def is_credit_card_valid(number):
         if odd(element) is False:
             list_of_new_numbers.append(digits[element])
         else:
-            list_of_new_numbers.append(digits[element] * 2)
-    # print(list_of_new_numbers)
-    # print(sum(list_of_new_numbers))
+            if digits[element] * 2 <= 9:
+                list_of_new_numbers.append(digits[element] * 2)
+            else:
+                big_number = to_digits(digits[element] * 2)
+                for index in range(len(big_number)):
+                    list_of_new_numbers.append(big_number[index])
+    print(list_of_new_numbers)
+    print(sum(list_of_new_numbers))
     if sum(list_of_new_numbers) % 10 is 0:
         return True
     else:
         return False
-
 
 print(is_credit_card_valid(79927398713))
 print(is_credit_card_valid(79927398715))
@@ -267,8 +274,56 @@ print(goldbach(10))
 
 
 def magic_square(matrix):
-    pass
+    sums = []
+    # sums elements in rows
+    sum_of_rows = [sum(row) for row in matrix]
+    for element in range(len(sum_of_rows)):
+        sums.append(sum_of_rows[element])
 
+    # sums elements in columns
+    sum_of_cols = [sum([row[i] for row in matrix]) for i in range(0, len(matrix[0]))]
+    for element in range(len(sum_of_cols)):
+        sums.append(sum_of_cols[element])
+
+    # sums the elements in the first diagonal
+    sum_of_first_diagonal = sum(matrix[row][row] for row in range(0, len(matrix)))
+    sums.append(sum_of_first_diagonal)
+
+    # sums the elements in the reversed diagonal
+    sum_of_second_diagonal = 0
+    j = len(matrix) - 1
+    for i in range(0, len(matrix)):
+        sum_of_second_diagonal += matrix[i][j]
+        j -= 1
+    sums.append(sum_of_second_diagonal)
+
+    for element in range(len(sums) - 1):
+        if sums[element] != sums[element + 1]:
+            return False
+    return True
+
+print (magic_square([[1, 2, 3], [4, 5, 6], [7, 8, 9]]))
+print (magic_square([[4, 9, 2], [3, 5, 7], [8, 1, 6]]))
+print (magic_square([[7, 12, 1, 14], [2, 13, 8, 11], [16, 3, 10, 5], [9, 6, 15, 4]]))
+print (magic_square([[23, 28, 21], [22, 24, 26], [27, 20, 25]]))
+print (magic_square([[16, 23, 17], [78, 32, 21], [17, 16, 15]]))
+
+
+FRIDAY_INDEX = 4
 
 def friday_years(start, end):
-    pass
+    count_friday_years = 0
+    year = start
+    while year <= end:
+        fridays_in_one_year = 0
+        for month in range(1, 12 + 1):
+            for week in calendar.monthcalendar(year, month):
+                if week[FRIDAY_INDEX] != 0:
+                    fridays_in_one_year += 1
+        if fridays_in_one_year == 53:
+            count_friday_years += 1
+        year += 1
+    return count_friday_years
+
+
+print(friday_years(1000, 2000))
