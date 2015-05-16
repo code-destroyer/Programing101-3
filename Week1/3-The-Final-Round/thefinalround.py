@@ -150,19 +150,6 @@ print(prepare_meal(15))
 print(prepare_meal(45))
 
 
-def reduce_file_path2(path):
-    result = []
-    parts = [part for part in path.split("/") if part not in [".", ""]]
-    while len(parts) != 0:
-        part = parts.pop()
-        if part == "..":
-            if len(parts) != 0:
-                parts.pop()
-        else:
-            result.insert(0, part)
-    return "/" + "/".join(result)
-
-
 def reduce_file_path(path):
     result = []
     elements = []
