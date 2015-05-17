@@ -1,5 +1,6 @@
 import re
 import json
+from pprint import pprint
 
 
 class Panda:
@@ -167,14 +168,27 @@ class PandaSocialNetwork:
                         counter += 1
         return counter
 
-    def save_json(self):
-        with open("pandas.json", "w") as file:
-            json.dump(self.network_pandas, file)
+    def __repr__(self):
+        save_pandas = {}
+        for panda in self.network_pandas:
+            friends = [repr(panda_friend) for panda_friend in self.network_pandas[panda]]
+        save_pandas[repr(panda)] = friends
+        return json.dumps(save_pandas, indent=True)
+
+    def save_json(self, filename):
+        with open("pandas.json", "w") as f:
+            f.write(self.__repr__())
+
+    def load_json(self, filename):
+        with open("pandas.json") as json_file:
+            json_data = json.load(json_file)
+            print(json_data)
+
 
 
 network = PandaSocialNetwork()
 
-ivo = Panda("Ivo", "ivo@pandamail.com", "male")
+# ivo = Panda("Ivo", "ivo@pandamail.com", "male")
 rado = Panda("Rado", "rado@pandamail.com", "male")
 tony = Panda("Tony", "tony@pandamail.com", "female")
 
@@ -186,4 +200,5 @@ print(network.make_friends(rado, tony))
 
 print(network.connection_level(ivo, rado)) == 1 # True
 print(network.connection_level(ivo, tony)) == 2 # True
-print(network.save_json())
+print(network.save_json("pandas.json"))
+pprint(network.load_json("pandas.json"))
