@@ -5,50 +5,49 @@ import json
 class Panda:
 
     def __init__(self, name, email, gender):
-        self._name = name
-        self._gender = gender
-
+        self.name = name
+        self.gender = gender
         self.set_email(email)
 
-    def name(self):
-        return self._name
+    def get_name(self):
+        return self.name
 
     def __str__(self):
-        return "The panda name, email and gender are {}, {} and {}".format(self._name, self._email, self._gender)
+        return "The panda name, email and gender are {}, {} and {}".format(self.name, self.email, self.gender)
 
     def __eq__(self, other):
-        equal_names = self._name == other._name
-        equal_emails = self._email == other._email
-        equal_genders = self._gender == other._gender
+        equal_names = self.name == other.name
+        equal_emails = self.email == other.email
+        equal_genders = self.gender == other.gender
         return equal_names and equal_emails and equal_genders
 
     def __repr__(self):
-        return "The panda name, email and gender are {}, {} and {}".format(self._name, self._email, self.gender)
+        return "The panda name, email and gender are {}, {} and {}".format(self.name, self.email, self.gender)
 
     def set_email(self, email):
         if not re.match(r"^[A-Za-z0-9\.\+_-]+@[A-Za-z0-9\._-]+\.[a-zA-Z]*$", email):
             raise ValueError
-        self._email = email
+        self.email = email
 
     def gender(self):
-        return self._gender
+        return self.gender
 
     def isMale(self):
-        if self.ivo._gender == male:
-            return True
-        return False
+        return self.gender.lower() == "male"
 
     def isFemale(self):
-        return not isMale(self)
+        return self.gender.lower() == "female"
 
     def __hash__(self):
-        return hash(self._name + self._email + self._gender)
+        return hash(self.name + self.email + self.gender)
 
 ivo = Panda("Ivo", "ivo@pandamail.com", "male")
 alf = Panda("Ivan", "Ceco@abv.bg", "male")
 
+
 class PandaAlreadyThere:
     pass
+
 
 class PandasAlreadyFriends:
     pass
@@ -57,22 +56,22 @@ class PandasAlreadyFriends:
 class PandaSocialNetwork:
 
     def __init__(self):
-        self.network = {}
+        self.network_pandas = {}
 
     def add_panda(self, panda):
-        if panda in self.network:
+        if panda in self.network_pandas:
             raise PandaAlreadyThere
         else:
-            self.network[panda] = []
+            self.network_pandas[panda] = []
 
 
     def has_panda(self, panda):
-        if panda in self.network:
+        if panda in self.network_pandas:
             return True
         return False
 
     def are_friends(self, panda1, panda2):
-        if panda1 in self.network[panda2] and panda2 in self.network[panda1]:
+        if panda1 in self.network_pandas[panda2] and panda2 in self.network_pandas[panda1]:
             return True
         return False
 
@@ -84,13 +83,13 @@ class PandaSocialNetwork:
         if self.are_friends(panda1, panda2):
             raise PandasAlreadyFriends
         else:
-            self.network[panda1].append(panda2)
-            self.network[panda2].append(panda1)
+            self.network_pandas[panda1].append(panda2)
+            self.network_pandas[panda2].append(panda1)
 
     def friends_of(self, panda):
-        if not self.network[panda]:
+        if panda not in self.network_pandas:
             return False
-        return self.network[panda]
+        return self.network_pandas[panda]
 
 
     """
@@ -125,47 +124,56 @@ class PandaSocialNetwork:
     }
 
 
-    def bfs(self, panda1, panda2): # graph=network, start=panda1, end=panda2, bfs=connection_level
+    def connection_level(self, panda1, panda2):  # graph=network, start=panda1, end=panda2, bfs=connection_level
         visited = set()
         queue = []
         # path_to[x] = y
         # if we go to x through y
         path_to = {}
-
         queue.append(panda1)
         visited.add(panda1)
         path_to[panda1] = None
         found = False
         path_length = 0
-
         # obhojdane v dulbochina(kogato imame nasochen put/izpolzva se stek)
-
         # obhojdane v shirochinna(kogato imame dvuposochen put)
         while len(queue) != 0:
             current_node = queue.pop(0)
             if current_node == panda2:
                 found = True
                 break
-
-            for neighbour in self.network[current_node]:
+            for neighbour in self.network_pandas[current_node]:
                 if neighbour not in visited:
                     path_to[neighbour] = current_node
                     visited.add(neighbour)
                     queue.append(neighbour)
-
         if found:
             while path_to[panda2] is not None:
                 path_length += 1
                 panda2 = path_to[panda2]
-
         # print(json.dumps(path_to, sort_keys=True, indent=4))
         return path_length
 
-    # def are_connected(self, panda1, panda2):
+    def are_connected(self, panda1, panda2):
+        level_of_connection = PandaSocialNetwork.connection_level(self, panda1, panda2)
+        return level_of_connection > 0
 
+    def how_many_genders_in_network(self, level, panda, gender):
+        counter = 0
+        for curr_panda in self.network_pandas.keys():
+            if curr_panda != panda:
+                if self.connection_level(panda, curr_panda) == level:
+                    if curr_panda.gender == gender:
+                        counter += 1
+        return counter
+
+    def save_json(self):
+        with open("pandas.json", "w") as file:
+            json.dump(self.network_pandas, file)
 
 
 network = PandaSocialNetwork()
+
 ivo = Panda("Ivo", "ivo@pandamail.com", "male")
 rado = Panda("Rado", "rado@pandamail.com", "male")
 tony = Panda("Tony", "tony@pandamail.com", "female")
@@ -176,5 +184,6 @@ for panda in [ivo, rado, tony]:
 print(network.make_friends(ivo, rado))
 print(network.make_friends(rado, tony))
 
-print(network.bfs(ivo, rado)) == 1 # True
-print(network.bfs(ivo, tony)) == 2 # True
+print(network.connection_level(ivo, rado)) == 1 # True
+print(network.connection_level(ivo, tony)) == 2 # True
+print(network.save_json())
