@@ -22,30 +22,32 @@ class CompanyManager:
         self.cursor.execute('''SELECT SUM(monthly_salary)
                                 FROM company''')
         for row in self.cursor:
-            print('The company is spending {} every month!'.format(row[0]))
+            print('The company is spending ${} every month!'.format(row[0]))
+        self.db.commit()
 
     def yearly_spending(self):
         self.cursor.execute('''SELECT SUM(monthly_salary), SUM(yearly_bonus)
                                 FROM company''')
         salaries = self.cursor.fetchall()[0]
-        salaries = salaries[0] * self.months + salaries[1]
-        return salaries
+        salaries = salaries[0] * 12 + salaries[1]
+        print("The company is spending ${} every year!".format(salaries))
+        self.db.commit()
 
-    def add_employee(self, name, monthly_salary, yearly_bonus, position):
+    def add_employee(self):
         name = input("name: ")
         monthly_salary = input("monthly_salary: ")
         yearly_bonus = input("yearly_bonus: ")
         position = input("position: ")
         self.cursor.execute('''INSERT INTO company(name, monthly_salary, yearly_bonus, position)
-                                VALUES(?, ?, ?, ?)''', name, monthly_salary, yearly_bonus, position)
-        self.connection.commit()
+                                VALUES(?, ?, ?, ?)''', (name, monthly_salary, yearly_bonus, position))
+        self.db.commit()
 
-    def delete_employee(self, employee_id):
+    def delete_employee(self):
         employee_id = input("id: ")
         self.cursor.execute("""DELETE FROM company WHERE id = ?""", employee_id)
-        self.connection.commit()
+        self.db.commit()
 
-    def update_employee(self, name, monthly_salary, yearly_bonus, position, employee_id):
+    def update_employee(self):
         employee_id = input("id: ")
         name = input("name: ")
         monthly_salary = input("monthly_salary: ")
@@ -53,25 +55,25 @@ class CompanyManager:
         position = input("position: ")
         self.cursor.execute("""UPDATE company
                                 SET name = ?, monthly_salary = ?, yearly_bonus = ?, position = ?
-                                WHERE id = ?""", name, monthly_salary, yearly_bonus, position, employee_id)
-        self.connection.commit()
+                                WHERE id = ?""", (name, monthly_salary, yearly_bonus, position, employee_id))
+        self.db.commit()
 
     def get_command(database, command):
-        command = input("command: ")
+        # command = input("command: ")
 
-        if command == 1:
+        if command == "list_employees":
             CompanyManager.print_list_employees(database)
-        elif command == 2:
+        elif command == "monthly_spending":
             CompanyManager.monthly_spending(database)
-        elif command == 3:
+        elif command == "yearly_spending":
             CompanyManager.yearly_spending(database)
-        elif command == 4:
+        elif command == "add_employee":
             CompanyManager.add_employee(database)
-        elif command == 5:
+        elif command == "delete_employee":
             CompanyManager.delete_employee(database)
-        elif command == 6:
+        elif command == "update_employee":
             CompanyManager.update_employee(database)
-        elif command == 7:
+        elif command == "7":
             sys.exit()
         else:
             print ("Invalid command!")
@@ -81,16 +83,17 @@ def main():
     database = CreateCompany()
 
     print ("Menu:")
-    print ("1. Prints out all employees.")
-    print ("2. Prints out the total sum for monthly spending that the company is doing for salaries")
-    print ("3. Prints out the total sum for one year of operation (Again, salaries)")
-    print ("4. Create a new employee.")
-    print ("5. Delete the given employee from the database.")
-    print ("6. The program should prompt the user to change each of the fields for the given employee.")
+    print ("1. list_employees")
+    print ("2. monthly_spending")
+    print ("3. yearly_spending")
+    print ("4. add_employee")
+    print ("5. delete_employee ")
+    print ("6. update_employee ")
     print ("7. Exit.")
 
-    cmd = CompanyManager()
-    cmd.get_command(database, command)
+    command = input("command: ")
+
+    CompanyManager.get_command(database, command)
 
 
 if __name__ == '__main__':
