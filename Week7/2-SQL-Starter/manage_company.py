@@ -6,8 +6,9 @@ from create_company import CreateCompany
 class CompanyManager:
 
     def __init__(self):
-        self.db = sqlite3.connect("create_company.db")
+        self.db = sqlite3.connect("employees.db")
         self.cursor = self.db.cursor()
+        # self.db.row_factory = sqlite3.Row
 
     def print_list_employees(self):
         self.cursor.execute('''SELECT id, name, position
@@ -34,6 +35,7 @@ class CompanyManager:
         self.db.commit()
 
     def add_employee(self):
+        # id = input("id = ")
         name = input("name: ")
         monthly_salary = input("monthly_salary: ")
         yearly_bonus = input("yearly_bonus: ")
@@ -58,21 +60,21 @@ class CompanyManager:
                                 WHERE id = ?""", (name, monthly_salary, yearly_bonus, position, employee_id))
         self.db.commit()
 
-    def get_command(database, command):
+    def get_command(d, command):
         # command = input("command: ")
 
         if command == "list_employees":
-            CompanyManager.print_list_employees(database)
+            CompanyManager.print_list_employees(d)
         elif command == "monthly_spending":
-            CompanyManager.monthly_spending(database)
+            CompanyManager.monthly_spending(d)
         elif command == "yearly_spending":
-            CompanyManager.yearly_spending(database)
+            CompanyManager.yearly_spending(d)
         elif command == "add_employee":
-            CompanyManager.add_employee(database)
+            CompanyManager.add_employee(d)
         elif command == "delete_employee":
-            CompanyManager.delete_employee(database)
+            CompanyManager.delete_employee(d)
         elif command == "update_employee":
-            CompanyManager.update_employee(database)
+            CompanyManager.update_employee(d)
         elif command == "7":
             sys.exit()
         else:
@@ -80,7 +82,7 @@ class CompanyManager:
 
 
 def main():
-    database = CreateCompany()
+    d = CreateCompany()
 
     print ("Menu:")
     print ("1. list_employees")
@@ -91,9 +93,9 @@ def main():
     print ("6. update_employee ")
     print ("7. Exit.")
 
-    command = input("command: ")
-
-    CompanyManager.get_command(database, command)
+    while True:
+        command = input("command: ")
+        CompanyManager.get_command(d, command)
 
 
 if __name__ == '__main__':
