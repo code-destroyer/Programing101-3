@@ -1,6 +1,11 @@
 from mutagen.mp3 import MP3
 import datetime
 import random
+from tabulate import tabulate
+import json
+from mutagen.easyid3 import EasyID3
+from os import listdir
+from datetime import timedelta
 
 
 class Song:
@@ -57,12 +62,14 @@ class Playlist:
         self.shuffle = shuffle
         self.list_of_songs = []
         self.index = 0
+        self.song = ''
 
     def add_song(self, song):
         if song in self.list_of_songs:
             print("Song already there")
         else:
             self.list_of_songs.append(song)
+        print(self.list_of_songs)
 
     def remove_song(self, song):
         if song in self.list_of_songs:
@@ -92,22 +99,66 @@ class Playlist:
                 dict_histogram[song.artist] = 1
         print (dict_histogram)
 
-    #ne vrushta pesen??
-    def next_song(self, repeat=False, shuffle=False):
-        if self.repeat is True:
-            if self.index == len(self.list_of_songs):
-                self.index == 0
-            self.song = self.list_of_songs[self.index]
-            self.index += 1
-            return self.song
+    def next_song(self, repeat=False, shuffle=True):
+        if repeat is True:
+            for self.index in range(len(self.list_of_songs)):
+                self.song = self.list_of_songs[self.index]
+                if self.index is len(self.list_of_songs):
+                    self.index = 0
+                    continue
+                self.index += 1
+                print(self.song)
 
-        elif self.shuffle is True:
-            for element in self.list_of_songs:
+        elif shuffle is True:
+            for element in range(len(self.list_of_songs)):
                 self.song = random.choice(self.list_of_songs)
                 self.list_of_songs.remove(self.song)
-                return self.song
+                print(self.song)
+        else:
+            return False
 
-    # def pprint_playlist():
+    def pprint_playlist(self):
+        headers_name = ["Artist", "Song", "Length"]
+        table = []
+        for song in self.songs:
+            table.append([song.artist, song.title, song.length])
+        print(tabulate(table, headers=headers_name))
+
+    def save(self):
+        print(self.list_of_songs)
+        self.dict_songs = {
+            "name": self.name,
+            "songs": [song for song in self.list_of_songs]
+        }
+        with open(self.name + ".json", "w") as f:
+            f.write(json.dumps(self.dict_songs, f, indent=True))
+
+    def load(self):
+        with open(self.name + '.json', 'r') as f:
+            content = json.load(f)
+        return content
+
+class Crawler:
+
+    def __init__(self, path):
+        self.path = path
+        self.mp3_path = []
+
+    def get_playlist(self):
+        for element in listdir(self.path):
+            if element.endswith(".mp3"):
+                self.mp3_path.append(listdir(self.path)[element])
+        playlist = Playlist(name="Music_playlist")
+        for item in self.mp3_path:
+            audio = MP3(self.path + item, ID3=EasyID3)
+            artist = audio["artist"][0]
+            album = audio["album"][0]
+            title = audio["title"][0]
+            length = str(timedelta(seconds=int(audio.info.length)))
+            song = Song(title, artist, album, length)
+            song.name = item
+            playlist.add_song(song)
+        return playlist
 
 
 
@@ -120,11 +171,16 @@ def main():
     print(s.get_length(hours=False))
 
     code_songs = Playlist(name="Code")
-    code_songs.add_song(s)
-    code_songs.add_song(m)
+    print(code_songs.add_song(s))
+    print(code_songs.add_song(m))
     code_songs.total_length()
     code_songs.artists()
-    code_songs.next_song(repeat=True)
+    code_songs.next_song()
+    code_songs.save()
+    code_songs.load()
+    path = "/home/maria/Desktop/Week4"
+    crawler = Crawler(path)
+    crawler.get_playlist()
 
 
 if __name__ == '__main__':

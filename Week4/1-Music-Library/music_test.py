@@ -1,4 +1,4 @@
-from music_library import Song, Playlist
+from music_library import Song, Playlist, Crawler
 import unittest
 
 
@@ -37,11 +37,36 @@ class TestPlaylist(unittest.TestCase):
 
     def setUp(self):
         self.code_songs = Playlist("Code", True, True)
+        self.info = Song("Pink", "Perfect", "Perfect", "3:44")
 
     def test_init(self):
         self.assertEqual(self.code_songs.name, "Code")
         self.assertEqual(self.code_songs.repeat, True)
         self.assertEqual(self.code_songs.shuffle, True)
+        self.assertEqual(self.code_songs.list_of_songs, [])
+        self.assertEqual(self.code_songs.index, 0)
+        self.assertEqual(self.code_songs.song, '')
+
+    def test_add_song(self):
+        self.code_songs.add_song(self.info)
+        self.assertTrue(self.info in self.code_songs.list_of_songs)
+
+    def test_remove_song(self):
+        self.code_songs.add_song(self.info)
+        self.code_songs.remove_song(self.info)
+        self.assertFalse(self.info in self.code_songs.list_of_songs)
+
+class TestCrawler(unittest.TestCase):
+
+    def setUp(self):
+        self.path = "/home/maria/Desktop/Week4"
+        self.crawler = Crawler(self.path)
+
+
+    def test_init(self):
+        self.assertEqual(self.crawler.path, self.path)
+        self.assertEqual(self.crawler.mp3_path, [])
+
 
 if __name__ == '__main__':
     unittest.main()
