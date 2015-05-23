@@ -1,0 +1,7967 @@
+[
+ {
+  "github": "https://github.com/EmanuelaMollova",
+  "name": "Емануела Моллова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Frontend JavaScript"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Мелания Бербатова",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101  v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/SvetlaGeorgieva",
+  "name": "Светла Георгиева",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/kimusubi",
+  "name": "Велко Спасов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/monnn",
+  "name": "Моника Шопова",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101  v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/LachezarStoev",
+  "name": "Лъчезар Стоев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java"
+   },
+   {
+    "group": 2,
+    "name": "Android"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/hrisinn",
+  "name": "Христиана Николова",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101  v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/Legena/HackBulgaria",
+  "name": "Петър Ванев",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101  v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/vparkov/HackBulgaria",
+  "name": "Валентин Парков",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101  v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/Djimi",
+  "name": "Дамян Манев",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Android"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/hconkov",
+  "name": "Христо Цонков",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101  v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/mihristov",
+  "name": "Милен Христов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/kakato10",
+  "name": "Светимир Игнатов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Frontend JavaScript"
+   },
+   {
+    "group": 1,
+    "name": "NodeJS"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/A4unecabrat",
+  "name": "Ангел Новоселски",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101  v2"
+   },
+   {
+    "group": 2,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/IvanVK",
+  "name": "Иван Котов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java"
+   },
+   {
+    "group": 2,
+    "name": "Android"
+   },
+   {
+    "group": 2,
+    "name": "Frontend JavaScript v2"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Antonia Iordanova",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/snejy",
+  "name": "Снежана Спасова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java"
+   },
+   {
+    "group": 2,
+    "name": "System C"
+   },
+   {
+    "group": 1,
+    "name": "Frontend JavaScript v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/kKunov",
+  "name": "Калоян Кунов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101  v2"
+   },
+   {
+    "group": 1,
+    "name": "Frontend JavaScript v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/MNIgnatov",
+  "name": "Мариян Игнатов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java"
+   },
+   {
+    "group": 2,
+    "name": "Android"
+   },
+   {
+    "group": 2,
+    "name": "Frontend JavaScript v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/MPeteva",
+  "name": "Моника Петева",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101  v2"
+   },
+   {
+    "group": 2,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/eevlogieva",
+  "name": "Евгения Евлогиева",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101  v2"
+   },
+   {
+    "group": 2,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/Shosh",
+  "name": "Маргарита Василева",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101  v2"
+   },
+   {
+    "group": 2,
+    "name": "Frontend JavaScript v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/GalinaDimitrova",
+  "name": "Галина Димитрова",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101  v2"
+   },
+   {
+    "group": 2,
+    "name": "Frontend JavaScript v2"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Даниел Тасков",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Frontend JavaScript"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Любомир Папазов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Стефан Колчев",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Boyan Zhelyazkov",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/kuskmen",
+  "name": "Янислав Василев",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101  v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/didoman",
+  "name": "Деян Василев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101  v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/sinystr",
+  "name": "Георги Николаев",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101  v2"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Спасимир Тупаров",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java"
+   },
+   {
+    "group": 2,
+    "name": "Android"
+   }
+  ]
+ },
+ {
+  "github": "http://github.com/siovchev",
+  "name": "Светлозар Йовчев",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101  v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/betrakiss",
+  "name": "Анджелин Неделчев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101  v2"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Теодор Блажев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": null,
+  "name": "Красимир Петров",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "System C"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Димитър Чаушев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "System C"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Мартина Тонковска",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "System C"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/Meri-em",
+  "name": "Мария Кърчева",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java"
+   },
+   {
+    "group": 1,
+    "name": "Android"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/skdls-",
+  "name": "Симеон Ролев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101  v2"
+   },
+   {
+    "group": 2,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/MariaKrusteva",
+  "name": "Мария Кръстева",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Frontend JavaScript"
+   },
+   {
+    "group": 2,
+    "name": "NodeJS"
+   },
+   {
+    "group": 2,
+    "name": "Frontend JavaScript v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/maieutiquer",
+  "name": "Даниел Родригес",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java v2"
+   },
+   {
+    "group": 2,
+    "name": "Programming 101  v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/EmineBasheva",
+  "name": "Емине Башева",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/vntzy",
+  "name": "Венцислав Велков",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java"
+   },
+   {
+    "group": 2,
+    "name": "Android"
+   },
+   {
+    "group": 1,
+    "name": "Ruby on Rails"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/emilenovv",
+  "name": "Емил Великов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101  v2"
+   },
+   {
+    "group": 2,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/dsspasov",
+  "name": "Димитър Спасов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101  v2"
+   },
+   {
+    "group": 2,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/HuKCaHa",
+  "name": "Николай Георгиев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101  v2"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Светлозар Михайлов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java"
+   },
+   {
+    "group": 1,
+    "name": "Android"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/stoilov",
+  "name": "Иван Стоилов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101  v2"
+   },
+   {
+    "group": 2,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/smilen4eto",
+  "name": "Смилена Маджирова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101  v2"
+   },
+   {
+    "group": 2,
+    "name": "Frontend JavaScript v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/NikiMaslarski",
+  "name": "Николай Масларски",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101  v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/ardavast",
+  "name": "Ардаваст Дайлерян",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "System C"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Роберт Богутлиев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "System C"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/opya",
+  "name": "Симо Симо",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "System C"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/Concepter",
+  "name": "Любослав Павлов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "System C"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/ZombineDev/",
+  "name": "Петър Киров",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "System C"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Никола Терзиев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "System C"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/Velyana",
+  "name": "Веляна Димова",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Frontend JavaScript"
+   },
+   {
+    "group": 2,
+    "name": "NodeJS"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/vulkodava",
+  "name": "Момчил Милев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "System C"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/boris-d",
+  "name": "Борис Димитров",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "System C"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/lostm1nd",
+  "name": "Деян Янакиев",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Frontend JavaScript"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/ngrusev",
+  "name": "Николай Русев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "System C"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/thinklinux",
+  "name": "Тихомир Вълканов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "System C"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/mimi0604",
+  "name": "Мими Микова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Frontend JavaScript"
+   },
+   {
+    "group": 1,
+    "name": "NodeJS"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/powerslider",
+  "name": "Цветан Димитров",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "System C"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/tmihov",
+  "name": "Теодор Михов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Frontend JavaScript"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/pecholakov",
+  "name": "Петьо Чолаков",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/adria-stef",
+  "name": "Адриана Стефанова",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/ferdok9",
+  "name": "Иван Кулин",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "System C"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/NikolayGenov",
+  "name": "Николай Генов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "System C"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/lytenica",
+  "name": "Димитър Георгиев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/Hristiyan-Andreev",
+  "name": "Християн Андреев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101  v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/mirena92",
+  "name": "Мирена Кермилска",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Android"
+   },
+   {
+    "group": 2,
+    "name": "Core Java"
+   },
+   {
+    "group": 2,
+    "name": "Frontend JavaScript v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/Baltiyski",
+  "name": "Стефан Балтийски",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/svetlio2",
+  "name": "Светослав Деков",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101  v2"
+   },
+   {
+    "group": 2,
+    "name": "Frontend JavaScript v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/mvladimirova",
+  "name": "Марианна Владимирова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "NodeJS"
+   },
+   {
+    "group": 1,
+    "name": "Frontend JavaScript"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/e3ky/Android/",
+  "name": "Мартин Белперчинов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Android"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/nikoembd",
+  "name": "Нико Янакиев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "System C"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/Rosenstoyanov",
+  "name": "Росен Стоянов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java"
+   },
+   {
+    "group": 2,
+    "name": "Android"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/kalpak44",
+  "name": "Pawel Ushanli",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java"
+   },
+   {
+    "group": 2,
+    "name": "Programming 101  v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/ChrisChrisi/",
+  "name": "Кристина Милева",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "NodeJS"
+   },
+   {
+    "group": 2,
+    "name": "Frontend JavaScript"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/MilenMMinev",
+  "name": "Милен Минев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java"
+   },
+   {
+    "group": 2,
+    "name": "Android"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/vdtodorov93",
+  "name": "Васил Тодоров",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/ivanbuhov",
+  "name": "Иван Бухов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/Alekssasho",
+  "name": "Александър Ангелов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "System C"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Ирник Дионисиев",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/mbuhova",
+  "name": "Магдалина Бухова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/itanev",
+  "name": "Илиян Танев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Таня Христова",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/kkashev",
+  "name": "Кристиан Кашев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101  v2"
+   },
+   {
+    "group": 2,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "http://github.com/fyllmax",
+  "name": "Андриан Колев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Frontend JavaScript"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/kristiyan-peychev",
+  "name": "Кристиян Пейчев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "System C"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/alexnad",
+  "name": "Александър Наджарян",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101  v2"
+   },
+   {
+    "group": 2,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/rumitu",
+  "name": "Румяна Рускова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java"
+   },
+   {
+    "group": 2,
+    "name": "Android"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/SlaviSotirov",
+  "name": "Слави Сотиров",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101  v2"
+   },
+   {
+    "group": 2,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/ivanppetrov",
+  "name": "Иван Петров",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/kal0ian",
+  "name": "Калоян Спиридонов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101  v2"
+   },
+   {
+    "group": 2,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/valentina-zhekova",
+  "name": "Валентина Жекова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101  v2"
+   },
+   {
+    "group": 2,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/edeyanova",
+  "name": "Елина Деянова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Християн Андреев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101  v2"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Теодора Герганска",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Frontend JavaScript"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/EmilianStankov",
+  "name": "Емилиан Станков",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java"
+   },
+   {
+    "group": 1,
+    "name": "Android"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/IvanAlexandrov",
+  "name": "Иван Алксандров",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101  v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/feralieva",
+  "name": "Тихомира Фералиева",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Frontend JavaScript"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/EmanuelStoyanov",
+  "name": "Емануел Стоянов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Frontend JavaScript"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Милен Тонев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Angular JS"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Георги Стойчев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Angular JS"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Иван Петров",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Angular JS"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Момчил Митев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Angular JS"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Иван Георгиев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Angular JS"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/FerdiNebi/AngularJS-course-homeworks",
+  "name": "Ферди Небиев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Angular JS"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/Spasimir70",
+  "name": "Спасимир Дешев",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101  v2"
+   },
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/pepi09",
+  "name": "Пепа Симеонова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "NodeJS"
+   },
+   {
+    "group": 2,
+    "name": "Frontend JavaScript"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/Dayana-Marinova",
+  "name": "Даяна Маринова",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java"
+   },
+   {
+    "group": 2,
+    "name": "Core Ruby"
+   },
+   {
+    "group": 2,
+    "name": "Ruby on Rails"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/DesislavaDimitrova",
+  "name": "Десислава Димитрова",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101  v2"
+   },
+   {
+    "group": 2,
+    "name": "Frontend JavaScript v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/egzheleva/JavaScript",
+  "name": "Елена Желева",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Frontend JavaScript"
+   },
+   {
+    "group": 2,
+    "name": "NodeJS"
+   },
+   {
+    "group": 2,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/mimipaskova",
+  "name": "Мария Паскова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Frontend JavaScript"
+   },
+   {
+    "group": 1,
+    "name": "NodeJS"
+   },
+   {
+    "group": 2,
+    "name": "Технологично предприемачество"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Кристиян Смиленов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Angular JS"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/PetyoPetrov",
+  "name": "Петьо Петров",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Angular JS"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Стефан Раканов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Angular JS"
+   }
+  ]
+ },
+ {
+  "github": "https://git.cloudhost.io/ttsvetko/angularjs-ttsvetko",
+  "name": "Цветан Цветков",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Angular JS"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Александър Атанасов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Angular JS"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/asenisa12",
+  "name": "Асен Стоилов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "System C"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/MMavrov",
+  "name": "Милен Мавров",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Android"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/velichka",
+  "name": "Величка Воденичарова",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101  v2"
+   }
+  ]
+ },
+ {
+  "github": "http://github.com/poseidon4o",
+  "name": "Любомир Коев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "System C"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Калин Преснаков",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Angular JS"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Александър Гинов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Angular JS"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Елица Павлова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Angular JS"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Пламен Стоев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Angular JS"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Владимир Трифонов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Angular JS"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Радослав Немчев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Angular JS"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Радослав Милушев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Angular JS"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Владимир Георгиев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Angular JS"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/Ralev93",
+  "name": "Христо Ралев",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Frontend JavaScript"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/smo93",
+  "name": "Георги Пеев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Frontend JavaScript"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/TsvetaKandilarova",
+  "name": "Цвета Кандиларова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java"
+   },
+   {
+    "group": 2,
+    "name": "Android"
+   },
+   {
+    "group": 2,
+    "name": "Frontend JavaScript v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/YoanaTodorova",
+  "name": "Йоана Тодорова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Ruby"
+   },
+   {
+    "group": 2,
+    "name": "Ruby on Rails"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/tonynho",
+  "name": "Антон Петков",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101  v2"
+   },
+   {
+    "group": 2,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/crusenov",
+  "name": "Цветан Русенов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Frontend JavaScript"
+   },
+   {
+    "group": 2,
+    "name": "NodeJS"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/h3lgi",
+  "name": "Олег Каменщик",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "System C"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/syndbg",
+  "name": "Антон Антонов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Frontend JavaScript"
+   },
+   {
+    "group": 1,
+    "name": "Programming 101  v2"
+   },
+   {
+    "group": 1,
+    "name": "Core Java"
+   },
+   {
+    "group": 1,
+    "name": "NodeJS"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/YAtOff",
+  "name": "Явор Атов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Angular JS"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Димитър Димитров",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java v2"
+   },
+   {
+    "group": 2,
+    "name": "Angular JS"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/viktormmarkov",
+  "name": "Виктор Марков",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Angular JS"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Иван Тончев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Ruby"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/mmiteva",
+  "name": "Мария Митева",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Ruby"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/petyokostakov",
+  "name": "Петъо Костаков",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Frontend JavaScript"
+   },
+   {
+    "group": 1,
+    "name": "NodeJS"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/LucyDimitrova",
+  "name": "Любослава Димитрова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Frontend JavaScript"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/aesislava/",
+  "name": "Десислава Ангелова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Frontend JavaScript"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/viktorstaikov",
+  "name": "Виктор Стайков",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Frontend JavaScript"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Георги Иванов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/zdrav4e",
+  "name": "Здравка Чавдарова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Frontend JavaScript"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/agalloch",
+  "name": "Димитър Терзиев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Ruby"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/nshahpazov",
+  "name": "Никола Шахпазов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "NodeJS"
+   },
+   {
+    "group": 2,
+    "name": "Angular JS"
+   },
+   {
+    "group": 2,
+    "name": "Ruby on Rails"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/svetliomihailov",
+  "name": "Светлозар Михайлов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Ruby"
+   },
+   {
+    "group": 2,
+    "name": "Ruby on Rails"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/JusttRelaxx",
+  "name": "Мирослав Маринов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101  v2"
+   },
+   {
+    "group": 2,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/svetlik",
+  "name": "Светлозар Тодоров",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Ruby"
+   },
+   {
+    "group": 2,
+    "name": "Ruby on Rails"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/mihail-nikolov",
+  "name": "Михаил Николов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101  v2"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Ирина Иванова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java"
+   },
+   {
+    "group": 2,
+    "name": "Android"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/agit0",
+  "name": "Любен Петров",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Ruby"
+   },
+   {
+    "group": 2,
+    "name": "Ruby on Rails"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Стела Великова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Ruby"
+   },
+   {
+    "group": 2,
+    "name": "Ruby on Rails"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/VLatunoV",
+  "name": "Валентин Лутанов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Ruby"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Николай Велков",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Ruby"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/martaradeva",
+  "name": "Мартина Радева",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Ruby on Rails"
+   },
+   {
+    "group": 2,
+    "name": "Core Ruby"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/shterev",
+  "name": "Йордан Щерев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Ruby"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/vencislavdimitrov",
+  "name": "Венцислав Димитров",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "NodeJS"
+   },
+   {
+    "group": 2,
+    "name": "Core Ruby"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/martina-prp",
+  "name": "Мартина Радева",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Frontend JavaScript"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/tnedev",
+  "name": "Тихомир Недев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java"
+   },
+   {
+    "group": 2,
+    "name": "System C"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/mun4kin",
+  "name": "Маргита Бояджиева",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/atanasov-ka",
+  "name": "Анжело Атанасов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Никола Илиев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Angular JS"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Мариета Иванова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Angular JS"
+   }
+  ]
+ },
+ {
+  "github": "http://github.com/sffetlio",
+  "name": "Светослав Попов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "NodeJS"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/mnubiumm",
+  "name": "Мария Пангарова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Ruby"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/kambata940/",
+  "name": "Камен Канев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Ruby"
+   },
+   {
+    "group": 2,
+    "name": "Ruby on Rails"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/ivivanov",
+  "name": "Иван Иванов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Android"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/toshko07",
+  "name": "Тодор Табаков",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Ruby"
+   },
+   {
+    "group": 2,
+    "name": "Ruby on Rails"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Цветомира Николова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Ruby"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/antoan-angelov",
+  "name": "Антоан Ангелов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Frontend JavaScript"
+   },
+   {
+    "group": 2,
+    "name": "Android"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/martj",
+  "name": "Мартин Йорданов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java"
+   },
+   {
+    "group": 1,
+    "name": "Android"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/peter-a/",
+  "name": "Петър Атанасов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Android"
+   },
+   {
+    "group": 2,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/luhova",
+  "name": "Габриела Лухова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Ruby"
+   },
+   {
+    "group": 2,
+    "name": "Ruby on Rails"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/mileto94/",
+  "name": "Милка Ферезлийска",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Frontend JavaScript"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/Tricho340",
+  "name": "Трифон Статков",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Frontend JavaScript"
+   },
+   {
+    "group": 2,
+    "name": "Angular JS"
+   }
+  ]
+ },
+ {
+  "github": "https://gist.github.com/Arch-Georgi",
+  "name": "Георги Николов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "http://hackbulgaria.com/",
+  "name": "Боян Дончев",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Frontend JavaScript"
+   },
+   {
+    "group": 2,
+    "name": "Core Ruby"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/nightwatch92",
+  "name": "Станислав Димитров",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/slav4o9405",
+  "name": "Слави Кадиев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Орлин Тенчев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Android"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Светослав Попов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Android"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Асен Йовчев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Angular JS"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/nikn1",
+  "name": "Никола Стефанов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/stilyan-kangalov",
+  "name": "Стилян Кангалов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Frontend JavaScript"
+   },
+   {
+    "group": 1,
+    "name": "Core Ruby"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/Vlad1s",
+  "name": "Владислав Каменов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Android"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Преслав Хаджицанев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Android"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/SophiaPetrova",
+  "name": "София Петрова",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Frontend JavaScript"
+   },
+   {
+    "group": 2,
+    "name": "Core Ruby"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/SIHalev",
+  "name": "Стоян Халев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Android"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Пламен Димитров",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/Slavunderkind",
+  "name": "Славка Цанкова",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/XanderBG/",
+  "name": "Александър Бакрачев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Android"
+   },
+   {
+    "group": 2,
+    "name": "Frontend JavaScript v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/rgeorgiev583",
+  "name": "Радослав Георгиев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java"
+   },
+   {
+    "group": 2,
+    "name": "System C"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/antoniqhc",
+  "name": "Антония Чекръкчиева",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Android"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/b-delev",
+  "name": "Борислав Делев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Frontend JavaScript"
+   },
+   {
+    "group": 2,
+    "name": "NodeJS"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Кристиян Кисимов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java"
+   },
+   {
+    "group": 2,
+    "name": "Android"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/georgi-denchew/",
+  "name": "Георги Иванов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Android"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/aboikliev",
+  "name": "Атанас Бойклиев",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Android"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/melatron",
+  "name": "Антони Диков",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "NodeJS"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Марио Димитров",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "NodeJS"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/mgechev",
+  "name": "Минко Гечев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Angular JS"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Георги Пенев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Angular JS"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/stvvt",
+  "name": "Стефан Стефанов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Angular JS"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Любослав Петров",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Angular JS"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Nikola Iliev",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "NodeJS"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/vidimitrov",
+  "name": "Veselin Dimitrov",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "NodeJS"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/xswordsx",
+  "name": "Иван Латунов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "NodeJS"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/yoandinkov",
+  "name": "Йоан Динков",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "NodeJS"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/6i6arka/NodeJS-HackBG",
+  "name": "Радослав Милушев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "NodeJS"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/asenovm",
+  "name": "Мартин Асенов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "NodeJS"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Hristo Avramov",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "NodeJS"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Георги Харизанов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "NodeJS"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/StoyanKostov?tab=repositories",
+  "name": "Стоян Костов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "NodeJS"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/vladimir-trifonov/",
+  "name": "Владимир Трифонов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "NodeJS"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Борис Вангелов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Angular JS"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Делян Митанкин",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Angular JS"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Йордан Грозданов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Angular JS"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Борислав Колев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Angular JS"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Самуил Петров",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "NodeJS"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/todorpr",
+  "name": "Тодор Прикумов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "NodeJS"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/hukuuu",
+  "name": "Николай Караджов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "NodeJS"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/Putzmitt3l/",
+  "name": "Добромир Кралев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "NodeJS"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/iliaidakiev",
+  "name": "Илия Идакиев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "NodeJS"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/DimiterM/",
+  "name": "Димитър Мутафчиев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "NodeJS"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Антон Георгиев",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "NodeJS"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/nikup",
+  "name": "Николина Гюрова",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "NodeJS"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/mdimitrov/nodejs-1",
+  "name": "Михаел Димитров",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "NodeJS"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/pltod/",
+  "name": "Пламен Тодоров",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "NodeJS"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/mluchev",
+  "name": "Мартин Лучев",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "NodeJS"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/vladislav-karamfilov",
+  "name": "Владислав Карамфилов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "NodeJS"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/var-ivaylo",
+  "name": "Ивайло Христов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Android"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Кристиан Борисов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Магдалена Голомеева",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/YankoSoulisimo",
+  "name": "Янко Бъчваров",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Ruby"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/phenix4o",
+  "name": "Мартин Нанчев",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Android"
+   },
+   {
+    "group": 1,
+    "name": "Core Java v2"
+   },
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/slop3n",
+  "name": "Любомир Димитров",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Ruby"
+   },
+   {
+    "group": 2,
+    "name": "Ruby on Rails"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/Belev",
+  "name": "Мартин Белев",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "NodeJS"
+   },
+   {
+    "group": 2,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/AlexanderTankov",
+  "name": "Александър Танков",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101  v2"
+   },
+   {
+    "group": 2,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/sslavov93",
+  "name": "Светлин Славов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101  v2"
+   },
+   {
+    "group": 2,
+    "name": "Frontend JavaScript v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/Y-LyN-10/",
+  "name": "Юлия Тенинчева",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "NodeJS"
+   },
+   {
+    "group": 1,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/Rositsazz",
+  "name": "Росица Златева",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101 v3"
+   },
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/VasilVasilev93",
+  "name": "Васил Василев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101  v2"
+   },
+   {
+    "group": 2,
+    "name": "Frontend JavaScript v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/bgvladedivac",
+  "name": "Илия Беличев",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101 v3"
+   },
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Атанас Бакалов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/modzozo/hack101",
+  "name": "Мариа Благоева",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101  v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/KrasimirVasilev",
+  "name": "Красимир Василев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Android"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/ynedelchev/hackbulgariasystemc1/",
+  "name": "Йордан Неделчев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "System C"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Кристиян Велков",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/bobi9881",
+  "name": "Божидар Стоянов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Георги Николов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Христо Линков",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/ivaylospasov",
+  "name": "Ивайло Спасов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101  v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/stanislavBozhanov",
+  "name": "Станислав Божанов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101  v2"
+   },
+   {
+    "group": 2,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/ksvulchev",
+  "name": "Калоян Вълчев",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101  v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/keiti93",
+  "name": "Екатерина Стаматова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/AnetaStoycheva",
+  "name": "Анета Стойчева",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101 v3"
+   },
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Николина Тодорова",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java v2"
+   },
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/KostadinTerziev",
+  "name": "Kostadin Terziev",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/MOysolova",
+  "name": "Маргарита Ойсолова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/stati4en",
+  "name": "Христо Христов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/AntonAtanasov",
+  "name": "Антон Атанасов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Христо Димитров",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/IvanToniev",
+  "name": "Иван Иванов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Frontend JavaScript"
+   },
+   {
+    "group": 2,
+    "name": "NodeJS"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Антония Цанкова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Лъчезар Попов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Даниела Баръмова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Стоян Димитров",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Вероника Чалъкова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/Mar11a",
+  "name": "Мария Ангелова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/KeiBlag",
+  "name": "Катерина Благинова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Тодор Чавдаров",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Ангел Ангелов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Светослав Рогалски",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Владимир Гаганелов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Виктор Аладжов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/sibinG",
+  "name": "Сибин Гюрджийски",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Ралица Борисова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Frontend JavaScript v2"
+   },
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Мила Русева",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Христо Колев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Мартин Йорданов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Павел Баръмов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Михаил Лухов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "ivo milushev",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/hrisi91",
+  "name": "Христина Минева",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/sivilov-d",
+  "name": "Добри Сивилов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/rumen89",
+  "name": "Румен Цветков",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/Piastrr",
+  "name": "Борис Мънзов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/Gabrielganchev",
+  "name": "Габриел Ганчев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/PavlinGergov",
+  "name": "Павлин Гергов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   },
+   {
+    "group": 1,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/elly2chan",
+  "name": "Елена Константинова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Йоана Радева",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Александра Бонева",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Яница Стойкова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Александър Стефанов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Бияна Георгиева",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Мартина Иванова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Денница Милчева",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Krassimir Paskalev",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Йоан Косев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Александър Ванков",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Георги Стаменов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Станислав Узунов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Анелия Андонова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Калоян Гангов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Васил Карчев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Stefana Vasileva",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/acedit",
+  "name": "Петър Христов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/beebel",
+  "name": "Христо Димитров",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/kristinash",
+  "name": "Kristina Shoyleva",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/YordanovBg",
+  "name": "Бисер Йорданов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Вероника Раденкова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/irina994",
+  "name": "Ирина Христова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/DanislavKirov",
+  "name": "Данислав Киров",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/TeodorIvanov",
+  "name": "Теодор Иванов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java v2"
+   },
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/krisio",
+  "name": "Kristian Teodorov",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/adutev/",
+  "name": "Антон Дутев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Frontend JavaScript v2"
+   },
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Емилия Иванова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Костадин Върбанов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Станислав Будинов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/JulietaAtanasova",
+  "name": "Жулиета Атанасова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Станислав Долапчиев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/mmilkov",
+  "name": "Михаел Милков",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/Tzvetelin",
+  "name": "Цветелин Панчев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/to6koo",
+  "name": "Тодор Иванов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Димитър Мърков",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/loshlio",
+  "name": "Атанас Атанасов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/L00ny",
+  "name": "Николета Николаева",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/vgenov1",
+  "name": "Владислав Генов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/danielgospodinow",
+  "name": "Даниел Господинов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Олег Иванов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/tockata",
+  "name": "Анатоли Ангелов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/yaggul",
+  "name": "Димитър Коцев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Кристина Христова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Борислав Георгиев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Иван Илчев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/manuelavelinova",
+  "name": "Мануела Велинова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/zutobg",
+  "name": "Велизар Великов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/KamozZze",
+  "name": "Цветомир Великов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Ivan Dimitrov",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Мартина Димитрова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/NikolaTsolov",
+  "name": "Никола Цолов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/golfdman",
+  "name": "Бисер Иванов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101  v2"
+   },
+   {
+    "group": 2,
+    "name": "Frontend JavaScript v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/Emrace",
+  "name": "Мюмюн Исмаил",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Албена Бъчварова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/skovachev/",
+  "name": "Stefan Kovachev",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "NodeJS"
+   },
+   {
+    "group": 1,
+    "name": "Ruby on Rails"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/Daniel-ivanov-",
+  "name": "Даниел Иванов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101  v2"
+   },
+   {
+    "group": 1,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/stoyaneft",
+  "name": "Stoyan Eftimov",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101  v2"
+   },
+   {
+    "group": 2,
+    "name": "Frontend JavaScript v2"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Иван Йонков",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/georgi-lyubenov",
+  "name": "Георги Любенов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101  v2"
+   },
+   {
+    "group": 2,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Добромир Симеонов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/tzvetandacov",
+  "name": "Цветан Дацов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/AntonioFilipov",
+  "name": "Антонио Филипов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101  v2"
+   },
+   {
+    "group": 2,
+    "name": "Frontend JavaScript v2"
+   },
+   {
+    "group": 1,
+    "name": "Технологично предприемачество"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/Ivaylo-Bachvarov",
+  "name": "Ивайло Бъчваров",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Frontend JavaScript"
+   },
+   {
+    "group": 1,
+    "name": "Core Java"
+   },
+   {
+    "group": 2,
+    "name": "Core Ruby"
+   },
+   {
+    "group": 2,
+    "name": "Angular JS"
+   },
+   {
+    "group": 1,
+    "name": "Programming 101  v2"
+   },
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   },
+   {
+    "group": 1,
+    "name": "Core Java v2"
+   },
+   {
+    "group": 1,
+    "name": "Programing 101"
+   },
+   {
+    "group": 1,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/DiviqLud",
+  "name": "Галин Ангелов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101  v2"
+   },
+   {
+    "group": 2,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/GerganaKara/HackBulgaria_0",
+  "name": "Гергана Караджова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Технологично предприемачество"
+   },
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Атанас Янчевски",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Мартин Пацов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/nevyanova",
+  "name": "Nikolina Nevyanova",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/kokod",
+  "name": "Никола Дичев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/nacholibre",
+  "name": "Йоан Арнаудов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/tborisova",
+  "name": "Цветелина Борисова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/naymad",
+  "name": "Дамян Димитров",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Ruby"
+   },
+   {
+    "group": 1,
+    "name": "Ruby on Rails"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/KostadinHamanov",
+  "name": "Костадин Хамънов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/presian",
+  "name": "Пресиян Данаилов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101 v3"
+   },
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/anedelcheva",
+  "name": "Анета Неделчева",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Антоний Павлов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101 v3"
+   },
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/vladopp",
+  "name": "Владимир Петков",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/ihranova",
+  "name": "Ина Хранова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Мартин Венелинов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Иво Иванов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/RaykoD",
+  "name": "Райко Димов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Frontend JavaScript v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/BKaraargirov",
+  "name": "Божидар Карааргиров",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Frontend JavaScript"
+   },
+   {
+    "group": 2,
+    "name": "NodeJS"
+   },
+   {
+    "group": 2,
+    "name": "Frontend JavaScript v2"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Шенер Садула",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Станислав Траилов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/zdgeorgiev",
+  "name": "Здравко Георгиев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Стоян Стоянов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/KristianMariyanov",
+  "name": "Кристиан Мариянов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Евгени Точев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/KostadinStefanov",
+  "name": "Костадин Стефанов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Frontend JavaScript v2"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Христо Буюклиев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/sote75",
+  "name": "Стоил Нешев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Dimitar Russev",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/Ganeta",
+  "name": "Ганета Добрева",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/archlicher",
+  "name": "Христофор Тодоров",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Диана Иванова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Юлиан Андонов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Николина Дойчева",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/YanaSlavcheva",
+  "name": "Яна Славчева",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Владимир Монов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Калоян Иванов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Кирил Иванов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/skonstantinov89/",
+  "name": "Стоян Константинов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": null,
+  "name": "Александър Дашов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Гергана Иванова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Андрей Павлов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/ilianasp",
+  "name": "Илиана Петкова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Georgi Genchev",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Мартин Бозов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/Gerasim-Stan",
+  "name": "Герасим Станчев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Ruby"
+   },
+   {
+    "group": 2,
+    "name": "Ruby on Rails"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "София Такева",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Николай Георгиев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/VLevski",
+  "name": "Йордан Йорданов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/miglen",
+  "name": "Миглен Евлогиев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Надежда Дункина",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/animilh",
+  "name": "Ана Бурнаска",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/siyana-plachkova",
+  "name": "Сияна Плачкова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Ния Кехайова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/nchitalov",
+  "name": "Найден Читалов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/martinski74",
+  "name": "Мартин Добруджански",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/KirilKabakchiev/",
+  "name": "Кирил Кабакчиев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Йордан Илиев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Филип Генев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Георги Петров",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/svilenkomitov",
+  "name": "Свилен Комитов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Петя Панайотова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/nomorehugs",
+  "name": "Иван Маринов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/vlexster/",
+  "name": "Владислав Тачев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Христина Христова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Ангел Маджаров",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/pstoev",
+  "name": "Пламен Стоев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/AntonHr",
+  "name": "Антон Христов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/ialidzhikov",
+  "name": "Исмаил Алиджиков",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Андрей Стоев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Димитър Владов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/mihayloff",
+  "name": "Преслав Михайлов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/MartinSergeev",
+  "name": "Мартин Сергеев",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/TeodorStamenov",
+  "name": "Теодор Стаменов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/TrayanIvanov",
+  "name": "Траян Иванов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Frontend JavaScript v2"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Георги Диков",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/Anti-neutrino",
+  "name": "Момчил Йорданов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Ivo Dimitrov",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/vanjiii",
+  "name": "Иван Димитров",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/hackohackob",
+  "name": "Атанас Атанасов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Десислава Стоянова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Христо Йовчев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/Vencislav-Dzhukelov",
+  "name": "Венцислав Джукелов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/code-destroyer",
+  "name": "Мария Цалта-Цветкова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Радиш Раданов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Simeon Monov",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Стефани Вълчева",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Stefan Dimoski",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Георги Абаджиев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Димо Дрънгов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": null,
+  "name": "Йордан Йорданов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Радослав Комитов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Valeria Valerkova",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/THN1Q",
+  "name": "Илиян Опрев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/vguenoff",
+  "name": "Vassil Guenoff",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/kobso1245",
+  "name": "Калоян Евтимов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/ipetkow90",
+  "name": "Иван Петков",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Хритина Стефанова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Розалина Киркова",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101 v3"
+   },
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/jborisova93",
+  "name": "Жанет Борисова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Красамир Янков",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Тодор Чавдаров",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Наталия Хаджиева",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Весела Иванова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Димитър Георгиев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/tanyatanyatanya",
+  "name": "Таня Георгиева",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/BoyanTodorov",
+  "name": "Боян Тодоров",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Михаела Иванова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Пламен Каращранов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/TsHristov",
+  "name": "Цветан Христов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101 v3"
+   },
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Венцислав Бенов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/aspirez4",
+  "name": "Николай Иванов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/NikolaPavlov",
+  "name": "Никола Павлов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Даниел Добрев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Виктория Веселинова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Евгени Стойков",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/Eeyorestz",
+  "name": "Йордан Георгиев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Петър Шопов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/hrizantema-st",
+  "name": "Хризантема Станчева",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/danzin",
+  "name": "Димитър Коларов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Васил Малчев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Славяна Монкова",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/Eeyorestz",
+  "name": "Йордан Георгиев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Деница Христова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/vanqz1",
+  "name": "Иванка Зайчева",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/radoisan",
+  "name": "Радослав Михайлов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Симеон Гигов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/Eeyorestz",
+  "name": "Йордан Георгиев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Габриела Грозева",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Красимира Бадова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Снежа Тодорова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Aleksandra Kamburova",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Албена Бъчварова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/radmanovi4",
+  "name": "Александър Милчев",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Ruby on Rails"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/MonikaGerova",
+  "name": "Моника Герова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Цветелина Александрова",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Frontend JavaScript v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/zhivko-georgiev",
+  "name": "Живко Георгиев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Никола Ненов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/DimitarStoev",
+  "name": "Димитър Стоев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/DimitarRDimitrov",
+  "name": "Димитър Димитров",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101  v2"
+   },
+   {
+    "group": 1,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Елица Венчова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Iliq Pavlov",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Любен Петков",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Илиян Велчев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Елица Венчова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/ikkks",
+  "name": "Ивелина Иванова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/pepincho",
+  "name": "Петър Иванов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/AlexChariyska",
+  "name": "Александра Чарийска",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Frontend JavaScript v2"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Иван Петров",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Стоил Янчев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Златина Недялкова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Мирослав Лалев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/elinaKaneva",
+  "name": "Елина Кънева",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Frontend JavaScript v2"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Никола Живков",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Георги Янев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Полина Кръстева",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Ивайло Таушанов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Иван Ружев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/RsknCankov",
+  "name": "Росен Цанков",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/sS7alk3Rr",
+  "name": "Георги Логодажки",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Бетина Иванова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Филип Генев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/dead-moon",
+  "name": "Вася Алексиева",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Frontend JavaScript v2"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Андрей Стоянов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Mihail Statelov",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/petrovaliev95",
+  "name": "Даниел Петровалиев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/qtakabg",
+  "name": "Антоний Михайлов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/velidar/",
+  "name": "Велидар Петров",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Ruby on Rails"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Elena Boydeva",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/xdevx32",
+  "name": "Ангел Кукушев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Frontend JavaScript v2"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Борис Рашков",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Nencho Nenchev",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Теодора Митева",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Венцислав Пенев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Георги Мавридис",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/m1h41l",
+  "name": "Михаил Димитровски",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/HristoAleksiev",
+  "name": "Христо Алексиев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/6desislava6",
+  "name": "Десислава Цветкова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Станислав Милев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Али Алендар",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Влади Иванов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/vassi95",
+  "name": "Василена Байрактарова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Нели Иванова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Александър Върбанов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/stoianivanov",
+  "name": "Стоян Иванов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Ангел Тодоров",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/staafl",
+  "name": "Велко Николов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Иван Младенов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Александър Вълчев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Деница Георгиева",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Martin Daskalov",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Martin Dumbanov",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Александър Витанов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Димитър Митев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Исмаил Мехмед",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Mario Chanchev",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Stoyan Mitkov",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/Momchipetkov/momchi/",
+  "name": "Момчил Петков",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/DiBochev",
+  "name": "Димитър Бочев",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Стоян Ташков",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Мирослав Атанасов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Илия Кълвачев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/plamen003",
+  "name": "Пламен Пенчев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/medarov",
+  "name": "Венцислав Медаров",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Константин Дренски",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Мартина Димитрова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Dimitar Ivanov",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/nikdonchev",
+  "name": "Николай Дончев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/polipetr",
+  "name": "Стефан Брожденов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/Dushkov",
+  "name": "Tony Dushkov",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Borislav Denchev",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Зорница Иванова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Цветан Томов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Николай Станчев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Иванина Върбанова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/peter359",
+  "name": "Петър Татерски",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "https://www.google.bg/search?q=%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0",
+  "name": "ГАДАТЕЛКАТА КАЗА",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/IceCubeDev/",
+  "name": "Иван Дортулов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Борис Ненов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Добрин Донев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/nchitalov",
+  "name": "Найден Читалов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/mekliov94",
+  "name": "Ахмед Мекльов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Емил Александров",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/7K1LL3R",
+  "name": "Тодор Трайков",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/KremenaVasileva",
+  "name": "Кремена Василева",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/alexjelin",
+  "name": "Александър Желин",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/maks7",
+  "name": "Максим Марков",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Евгени Томов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Александра Димитрова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Благой Анастасов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/anryangelov/HackBG",
+  "name": "Aнгел Aнгелов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/RidvanBekir",
+  "name": "Ридван Бекир",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/igmehandzhiev",
+  "name": "Иван Механджиев",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Станислава Иванова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Михаил Рачев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Йордан Иванов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/onilo",
+  "name": "Николай Сапунджиев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/ivatanasow",
+  "name": "Иван Атанасов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/momchil-lukanov",
+  "name": "Момчил Луканов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/rherince",
+  "name": "Ралица Великова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Владислав Атанасов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Иван Виденов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Михаил Цонев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/ivannborisov",
+  "name": "Иван Борисов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Цветозар Манев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Айдън Бейтулов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Мирела Карадачка",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Цветина Георгиева",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Petar Vekilov",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Даниел Миланов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/DilyanaKirilova",
+  "name": "Диляна Кирилова",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Десислава Николова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Мария Маркова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Иванка Тодорова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Павлина Стамболиева",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Мюжгян Тасим",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Свилен Желев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Моника Ценова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Петъо Теменлиев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Йоана Марчовска",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Андон Андонов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Преслав Милев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Battur sainbayar",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Петко Михайлов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/faxl/",
+  "name": "Симеон Александров",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Ivan Dimitrov",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Бюлянт Ибрямов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Илко Григоров",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Pollin Nikolova",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Сава Абаджиев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/krassypetkova",
+  "name": "Красимира Петкова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/Slavit00",
+  "name": "Станислав Тарашев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Ростислав Димитров",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Ива Григорова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Манол Миланов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Елена Буланова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/stefanp227",
+  "name": "Стефан Петров",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Георги Петров",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Асен Кратунков",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Милко Кунев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/polinakrusteva",
+  "name": "Полина Кръстева",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Лъчезар Малинков",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Халил Имамов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Георги Стоилов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Михаела Низамова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/stefansinapov",
+  "name": "Стефан Синапов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/danailbd",
+  "name": "Данаил Димитров",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java"
+   },
+   {
+    "group": 1,
+    "name": "Android"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Александър Пейчев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Милена Дренска",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/wolfylambova",
+  "name": "Виктория Ламбова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Иван Иванов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/borislavd94",
+  "name": "Борислав Динчев",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Кристиян Крумов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Frontend JavaScript v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/s0ld1er",
+  "name": "Живко Тодоров",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Володя Вълчев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/HPenchev",
+  "name": "Христо Пенчев",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/megaboy2",
+  "name": "Енчо Белезирев",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/draawn",
+  "name": "Васил Йошев",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": null,
+  "name": "Петко Загоров",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Божидар Цонев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/nexusstar",
+  "name": "Петър Ников",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Frontend JavaScript v2"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Stefan Nikolov",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/Svilen-Angelov",
+  "name": "Свилен Ангелов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Frontend JavaScript v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/stelllla",
+  "name": "Стела Гавраилова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Кирил Тодоров",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Пламен Каращранов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Цветан Захариев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/momo333",
+  "name": "Мария Косева",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/Pyromaniak95",
+  "name": "Теодор Селман",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/deyanskiq",
+  "name": "Деян Денчев",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/kjpopov",
+  "name": "Красимир Попов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Ruby on Rails"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Ивелин Тодоров",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Vladislav Pavlov",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/ViktorHristov",
+  "name": "Виктор Христов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/lucifer666",
+  "name": "Филип Генев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Али Касму",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/Pokahontas",
+  "name": "Йоана Николова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/st-zhelev",
+  "name": "Станислав Желев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Konstantin Petrov",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/91kerezi",
+  "name": "Атанас Керезов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Яница Георгиева",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Иван Николов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Йоана Йончовска-Рударска",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Дебора Желязкова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Станислав Паунов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Йоан Стоянов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Георги Георгиев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Диляна Цанова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Мартин Кирилов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Атанас Атанасов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Йордан Стоянов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/georgiyanev",
+  "name": "Георги Янев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Ива Григорова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Марио Петров",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/I-Valchev",
+  "name": "Иво Вълчев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "http://github.com/minevadesislava",
+  "name": "Десислава Минева",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Анатоли Асенов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Цанна Белчева",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Денислав Цонев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/zivanof",
+  "name": "Velizar Ivanov",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Димитър Пенков",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Александър Кръстев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Николай Кичев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/dgetskova",
+  "name": "Димитрина Гецкова",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Илия Илиев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Stefan Uzunov",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Стоян Стоянов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/BRANIAC30",
+  "name": "Димитър Матев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Явор Донев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Дилян Цветков",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Йоан Стоянов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/DanielJelev",
+  "name": "Даниел Желев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Николай Петков",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Цанко Цанков",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Аделина Недева",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Наталия Хаджиева",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Кирил Павлов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "http://github.com/nikpet",
+  "name": "Николай Йорданов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Цветомир Цанов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Антон Димов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Ивана Радева",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/xezzyworld",
+  "name": "Александър Петков",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/DianaK",
+  "name": "Diana Kosashka",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Димитрина Стоянова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "None",
+  "name": "Валентин Христов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Милен Атанасов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Александър Хайредински",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/amihaylov",
+  "name": "Anton Mihaylov",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Frontend JavaScript v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/IvoGluhchev",
+  "name": "Ivo Gluhchev",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Димитър Стефанов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Панайот Панайотов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/yordanovagabriela",
+  "name": "Габриела Йорданова",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/ivsim , https://github.com/ivsim/hackbulgaria-core-java-2-application",
+  "name": "Ивайло Симеонов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/markov94ggiz",
+  "name": "Симеон Марков",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/naydenhristov",
+  "name": "Найден Христов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/IliyanKozlovski",
+  "name": "Илиян Козловски",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Ruby on Rails"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/pep4eto1211",
+  "name": "Петър Георгиев",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/presianbg",
+  "name": "Пресиан Янкулов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Симеон Присадов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/bgalabov/",
+  "name": "Борислав Гълъбов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/mbdimitrova",
+  "name": "Моника Димитрова",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Ruby on Rails"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Мартин Богданов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Елизабет Стаменова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/RadiDicheva",
+  "name": "Радка Дичева",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/dvlahovski",
+  "name": "Димитър Влаховски",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/Blinky82",
+  "name": "Банко Стоянов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Георги Алипиев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/MariaTerzieva",
+  "name": "Мария Терзиева",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Ruby on Rails"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/BojidarBlagoev",
+  "name": "Божидар Благоев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/velichkoStoev",
+  "name": "Величко Стоев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Frontend JavaScript v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/underhaker",
+  "name": "Yoan Stoyanov",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Кезим Хаджиев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/Ilkova",
+  "name": "Полина Илкова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "mario qnkov",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/rosteslav",
+  "name": "Ростеслав Йорданов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Светослав Ангелов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Frontend JavaScript v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/toni444",
+  "name": "Антоан Андонов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Иво Топенчаров",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Никола Раевски",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Стилиян Димов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/DesitaD",
+  "name": "Десислава Динчева",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "https://gist.github.com/boyskila",
+  "name": "Бойко Лалов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/radosz",
+  "name": "Радослав Аладжов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Иван Симеонов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Даниела Атанасова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/lazarov1994",
+  "name": "Лазар Лазаров",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/gbalabanov",
+  "name": "Георги Балабанов",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/YordanL",
+  "name": "Йордан Йорданов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Цветина Пеева",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Благовеста Кънева",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/gbalabanov/Programming101",
+  "name": "Георги Балабанов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/HowTroublesome/",
+  "name": "Валери Мазнев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Вланетин Алксандров",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Nikolay Petrov",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Алис Демирева",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/elzaharieva",
+  "name": "Елена Захариева",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Атанас Андреев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/ivelintod",
+  "name": "Ивелин Тодоров",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Васил Трифонов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/VladislavAtanasov",
+  "name": "Владислав Атанасов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Александър Абашев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Захра Харира",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Полина Карова",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Цветина Пеева",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Мариян Апостолов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/Titkov",
+  "name": "Титко Титков",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/sevgo",
+  "name": "Sevgin Mustafov",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101 v3"
+   },
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Дмитрий Фудулаки",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Димитър Смилянов",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Ruby on Rails"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/stilyantanev",
+  "name": "Стилян Танев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101 v3"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/dinkoslav",
+  "name": "Динко Тодоров",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/birkoff88",
+  "name": "Борис Петров",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Core Java v2"
+   },
+   {
+    "group": 1,
+    "name": "Programming 101  v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/Vitosh",
+  "name": "Vitosh Doynov",
+  "available": false,
+  "courses": [
+   {
+    "group": 1,
+    "name": "Programming 101 v3"
+   },
+   {
+    "group": 1,
+    "name": "Frontend JavaScript v2"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Румен Янков",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/VictorVangelov",
+  "name": "Victor Vangelov",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Programming 101  v2"
+   },
+   {
+    "group": 2,
+    "name": "Core Java v2"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/plamer",
+  "name": "Пламен Калчев",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/tuseto",
+  "name": "Тодор Петров",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "https://github.com/smonov",
+  "name": "Simeon Monov",
+  "available": false,
+  "courses": [
+   {
+    "group": 2,
+    "name": "Програмиране 0"
+   }
+  ]
+ },
+ {
+  "github": "",
+  "name": "Георги Дангалов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/TodorBalabanov/",
+  "name": "Тодор Балабанов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Петър Пешев",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Виктор Марков",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "http://www.penkov.me/",
+  "name": "Мартин Пенков",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "https://github.com/ivanst-stoyanov",
+  "name": "Иван Стоянов",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Dimo Michev",
+  "available": false,
+  "courses": []
+ },
+ {
+  "github": "",
+  "name": "Иван Петков",
+  "available": false,
+  "courses": []
+ }
+]
