@@ -11,10 +11,12 @@ def create_clients_table():
         clients(id INTEGER PRIMARY KEY AUTOINCREMENT,
                 username TEXT,
                 password TEXT,
+                email TEXT,
                 balance REAL DEFAULT 0,
                 message TEXT)'''
 
     cursor.execute(create_query)
+    conn.commit()
 
 
 def change_message(new_message, logged_user):
@@ -30,10 +32,9 @@ def change_pass(new_pass, logged_user):
     conn.commit()
 
 
-def register(username, password):
-
+def register(username, password, email):
     insert_sql = "INSERT into clients (username, password) values (?, ?)"
-    cursor.execute(insert_sql, (username, password))
+    cursor.execute(insert_sql, (username, password, password))
     conn.commit()
 
 
@@ -48,3 +49,54 @@ def login(username, password):
         return Client(user[0], user[1], user[2], user[3])
     else:
         return False
+    conn.commit()
+
+
+def get_user_email(username):
+    cursor.execute("""SELECT email
+                        FROM clients
+                        WHERE username = ?""", (username,))
+    email = cursor.fetchone()
+    return email[0]
+
+
+def deposit(amount, logged_user):
+    cursor.execute("""SELECT balance
+                        FROM clients
+                        WHERE username = ?""", (logged_user,))
+    balance = cursor.fetchone()
+    total = balance[0] + amount
+    cursor.execute("""UPDATE clients
+                        SET balance = ?
+                        WHERE username = ?""", (total, logged_user))
+    conn.commit()
+
+def withdraw(amount, logged_user):
+    cursor.execute("""SELECT balance
+                        FROM clients
+                        WHERE username = ?""", (logged_user,))
+    balance = cursor.fetchone()
+    total = balance[0]
+
+    if total < amount:
+        print("Invalid ammount")
+    elif total == amount:
+        cursor.execute("""UPDATE clients
+                            SET balance = ?
+                            WHERE username = ?""", (0, logged_user))
+    else:
+        cursor.execute("""UPDATE clients
+                            SET balance = ?
+                            WHERE username = ?""", (total - amount, logged_user))
+    conn.commit()
+
+def display(logged_user):
+    cursor.execute("""SELECT balance
+                        FROM clients
+                        WHERE username = ?""", (logged_user,))
+    balance = cursor.fetchone()[0]
+    print(balance)
+    return balance
+
+
+# h = create_clients_table()
